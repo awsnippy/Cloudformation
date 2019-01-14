@@ -1,0 +1,8 @@
+Steps to execute Cloudformation stack:
+COnfigure Aws cli
+execute below command:
+
+
+	aws cloudformation create-stack --stack-name VPC --template-body file://VPC.yml
+  
+  
